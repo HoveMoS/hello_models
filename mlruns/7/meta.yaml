@@ -1,0 +1,6 @@
+artifact_location: file:///E:/Work-ing/hello_models/mlruns/7
+creation_time: 1688542707444
+experiment_id: '7'
+last_update_time: 1688542707444
+lifecycle_stage: active
+name: adaboost for classifier

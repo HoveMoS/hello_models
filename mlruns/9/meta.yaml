@@ -1,0 +1,6 @@
+artifact_location: file:///E:/Work-ing/hello_models/mlruns/9
+creation_time: 1688542740857
+experiment_id: '9'
+last_update_time: 1688542740857
+lifecycle_stage: active
+name: lightgbm for classifier

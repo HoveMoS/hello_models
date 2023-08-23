@@ -1,0 +1,6 @@
+artifact_location: file:///E:/Work-ing/hello_models/mlruns/8
+creation_time: 1688542721738
+experiment_id: '8'
+last_update_time: 1688542721738
+lifecycle_stage: active
+name: xgboost for classifier

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Work-ing/hello_models/mlruns/9/769bd385ca424919987364c36595866c/artifacts
+end_time: 1688542744598
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 769bd385ca424919987364c36595866c
+run_name: test
+run_uuid: 769bd385ca424919987364c36595866c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688542742237
+status: 3
+tags: []
+user_id: HYH
